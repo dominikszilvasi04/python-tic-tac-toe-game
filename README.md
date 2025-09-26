@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Game with Statistical Analysis
-This is a Python-based Tic-Tac-Toe game created for a school project. It includes a full game with single-player, multiplayer, and bot-vs-bot modes. The project also features scripts for running simulations and analyzing game data to generate charts and statistics. An HTML project report is included in index.html.
+This is a Python-based Tic-Tac-Toe game created for a leaving cert project 2023 which received a H1. It includes a full game with single-player, multiplayer, and bot-vs-bot modes. The project also features scripts for running simulations and analyzing game data to generate charts and statistics. A HTML project report is included in index.html.
 
 🚀 How to Run
 ## Prerequisites
