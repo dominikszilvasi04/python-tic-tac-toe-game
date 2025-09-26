@@ -24,7 +24,7 @@ To play, run the main game file. You'll be asked to choose a game mode.
 
 python "Full Game.py"
 
-# Running the Analysis
+## Running the Analysis
 After playing some games, you can run these scripts to see the data analysis.
 
 ## Analyze Single-Player Data
