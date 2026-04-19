@@ -27,13 +27,13 @@ python "Full Game.py"
 ## Running the Analysis
 After playing some games, you can run these scripts to see the data analysis.
 
-## Analyze Single-Player Data
+## Analyse Single-Player Data
 python "Statistical + Graphical Analysis of Singleplayer Data.py"
 
-## Analyze Multiplayer Data
+## Analyse Multiplayer Data
 python "Statistical + Graphical Analysis of Multiplayer Data.py"
 
-## Analyze Bot Simulation Data
+## Analyse Bot Simulation Data
 python "Graphical Analysis of Bot Results.py"
 
 ## Run a new Bot Simulation
